@@ -4,4 +4,9 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="welcome">Welcome</string>
     <string name="get_started">Get Started</string>
+    <string name="post_promote">Good at physics or math or any subject ! Why not use your time teaching someone. Use our post feature</string>
+    <string name="description">description</string>
+    <string name="feature_search">Looking the best teacher for your child. Easy! Go to our view section</string>
+    <string name="feature3_text">You are not satisfied with our service, you have suggestion for us.Directly connect with us through the feedback section</string>
+    <string name="test">Test interface</string>
 </resources>
