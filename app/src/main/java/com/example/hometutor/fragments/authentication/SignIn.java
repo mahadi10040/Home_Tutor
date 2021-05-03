@@ -157,6 +157,8 @@ public class SignIn extends Fragment implements ChangeFragment.FragmentChange {
                 });
     }
 
+    //TODO facebook sign in left
+
     private void goToMainActivity(){
         startActivity(new Intent(getActivity(), MainActivity.class));
         Objects.requireNonNull(getActivity()).finish();
