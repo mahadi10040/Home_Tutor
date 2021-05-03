@@ -9,4 +9,12 @@
     <string name="feature_search">Looking the best teacher for your child. Easy! Go to our view section</string>
     <string name="feature3_text">You are not satisfied with our service, you have suggestion for us.Directly connect with us through the feedback section</string>
     <string name="test">Test interface</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forget_password">Forget Password ?</string>
+    <string name="or">OR</string>
+    <string name="new_account">New User? Sign Up</string>
+    <string name="ekra_bismika">﷽</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="sign_up">Sign Up</string>
+
 </resources>
